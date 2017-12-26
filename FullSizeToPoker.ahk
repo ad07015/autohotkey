@@ -16,6 +16,11 @@
 #Persistent
 SetCapsLockState, AlwaysOff
 
+#2::
+Run "c:\dev\test\FullSizeToPoker2ndLayer.ahk" ; With the full file path specified, of course
+ExitApp
+return
+
 // Disabled keys
 SC001::return // Escape
 
