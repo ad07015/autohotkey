@@ -34,7 +34,7 @@ SC058::return // F12
 
 PrintScreen::return
 ScrollLock::return
-Pause::return
+SC045::return // Pause
 
 Insert::return
 Delete::return
